@@ -91,8 +91,6 @@ Homework01_Search/
 
 ├── Homework.pdf
 
-├── Solution.pdf
-
 ├── src/
 
 ├── README.md
