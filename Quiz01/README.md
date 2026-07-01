@@ -66,15 +66,6 @@ Quiz01/
 
 ```
 
----
-
-## Reference Implementation
-
-The accompanying notebook contains complete reference solutions for all analytical and programming-related questions.
-
-The implementation follows educational principles and is intended for instructional purposes.
-
----
 
 ## Skills Covered
 
