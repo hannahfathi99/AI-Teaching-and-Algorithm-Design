@@ -4,8 +4,6 @@
 
 Artificial Intelligence (Spring 2025)
 
-Shiraz University
-
 ---
 
 ## Overview
@@ -42,9 +40,6 @@ Homework.pdf
 Solution.pdf
 
 src/
-
-plots/
-```
 
 ---
 
@@ -98,12 +93,7 @@ Homework03_Regression/
 
 Homework.pdf
 
-Solution.pdf
-
 src/
-
-plots/
-```
 
 ---
 
