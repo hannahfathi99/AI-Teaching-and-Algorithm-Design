@@ -199,12 +199,3 @@ Please do not submit these materials as coursework in academic courses.
 **Hannah Fathi**
 
 M.Sc. Student in Artificial Intelligence and Robotics
-
-Interested in
-
-- Artificial Intelligence
-- Computer Vision
-- Remote Sensing
-- Explainable AI
-- Medical AI
-- Foundation Models
