@@ -5,6 +5,16 @@ A collection of teaching materials, programming assignments, quizzes, algorithm 
 The repository contains original programming assignments, quiz design, reference implementations, and supporting materials covering classical Artificial Intelligence algorithms.
 
 ---
+## Academic Context
+
+### Teaching Assistantship (Spring 2025)
+
+**Institution:** Shiraz University  
+**Course:** Artificial Intelligence (Undergraduate Level)  
+**Role:** Teaching Assistant (TA)  
+**Semester:** Spring 2025  
+
+---
 
 ## About
 
